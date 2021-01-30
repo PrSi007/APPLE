@@ -1,0 +1,81 @@
+.body  {
+    font-family: 'Comfortaa', cursive;
+    margin:10px;
+}
+.main  {
+    text-align: center;
+}
+a  {
+    font-size: 20px;
+    color:white;
+    text-decoration: none;
+}
+.carouselExampleCaptions {
+    z-index: -1;
+    position: relative;
+    top:-100px;
+}
+.nav  {
+    display:inline-block;
+    padding:30px;
+    width:90%;
+    margin:0px auto;
+}
+.fa  {
+    margin-left: 100px;
+}
+.bar  {
+    padding:150px;
+}
+.container1 {
+    width:40%;
+    display:flex;
+    margin-left: 5%;
+}
+.container2 {
+    width:40%;
+    display:flex;
+    margin-left: 5%;
+}
+.i{
+    align-content:center;
+    flex:1;
+    width:90%;
+    margin:10%;
+    border-radius: 10px;
+}
+.carouselVideo  {
+    z-index: -1;
+    width:100%;
+    position:relative;
+}
+.cards  {
+    width:60%;
+    display:flex;
+}
+h1 {
+    text-align: center;
+}
+.c {
+    width:40%;
+    margin:25px;
+    margin-left: 10%;
+    border-radius: 10px;
+}
+.footer {
+    width:100%;
+    padding:100px;
+    margin:0px auto;
+    display:inline-block;
+    background-color:#616466;
+}
+.end  {
+    margin:10px;
+    margin-left: 5%;
+    text-decoration: none;
+    color:white;
+}
+.fa {
+    color:white;
+}
+
